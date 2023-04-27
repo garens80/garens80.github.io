@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Musings of a Technical Architect
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog Technical Architect Azure Salesforce MuleSoft
 twitter_username: username
-github_username: username
+github_username: garens80
 minimal_mistakes_skin: default
 search: true
 
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Gareth Ensor"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "Highly Technical IT Architect | Salesforce | Omnistudio | Azure | Tableau | .net | Architecture | Integration | APIs | Hands-On | Development | Analytics"
+  bio    : "Highly Technical IT Architect, 12 times certified see about for more"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
