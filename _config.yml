@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Gareth Ensor"
+  avatar : "/assets/images/headshot.jpg"
+  bio    : "Highly Technical IT Architect | Salesforce | Omnistudio | Azure | Tableau | .net | Architecture | Integration | APIs | Hands-On | Development | Analytics"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -72,8 +72,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedini"
+      url: "https://www.linkedin.com/in/garethensor/"
 
 footer:
   links:
