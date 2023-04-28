@@ -15,4 +15,4 @@ First of all, why does Salesforce have a requirement for uniqueness of user name
 For community users they will not login via login.salesforce.com therefore there is no reason to require uniqueness across all orgs - only in the org the experience site exists in. 
 
 
-There are some caveats around partner license types - check out https://help.salesforce.com/s/articleView?id=sf.networks_licenses_limitations.htm&type=5 for more details
+There are some caveats around partner license types - check out [this](https://help.salesforce.com/s/articleView?id=sf.networks_licenses_limitations.htm&type=5){:target="_blank"}{:rel="noopener noreferrer"} for more details
