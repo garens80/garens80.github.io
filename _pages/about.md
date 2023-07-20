@@ -3,6 +3,19 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Certifications:
+•	Microsoft: Azure Solutions Architect Expert | MCSE - Data Management and Analytics | Azure Developer Associate | MCSA - SQL Server
+•	Salesforce Certified Application Architect
+•	Salesforce Certified Identity and Access Management Architect
+•	Salesforce Certified Data Architect
+•	Salesforce Certified Sharing and Visibility Architect
+•	Salesforce Certified OmniStudio Developer
+•	Salesforce Platform Developer I
+•	Salesforce Platform App Builder
+•	Salesforce Certified Administrator
+•	AWS: Certified Cloud Practitioner
+•	Tableau: Desktop Specialist
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+About:
+
+A Certified and accomplished Technical / Solution Architect with over 20+ years experience architecting, leading, managing and delivering all phases of complex large-scale projects, from planning through to post-implementation, that develop and drive business process improvements, customized solutions and future business needs. Excellent communication, team player and team builder skills enable the development of long-lasting relationships with Peers, C-Level Executives and Stakeholders. Industry knowledge spans Manufacturing, Distribution, Automotive, Renewable Energy, Environmental, Financial Services, Technology and Software sectors.

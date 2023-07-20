@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Gareth Ensor"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "Highly Technical IT Architect, 12 times certified see about for more"
+  bio    : "Highly Technical IT Architect, 14 times certified see about for more info"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
