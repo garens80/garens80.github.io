@@ -20,5 +20,4 @@ Follow the information below!
 
 The example will automatically use the Theme logo for the experience site. There is also examples of displaying social media icons - you will need to upload these to your static resources or replace them with something else
 
-### Heading level 3
-[Codepen](https://codepen.io/KeptCantaloupe/pen/bGQNXwK){:target="_blank"}{:rel="noopener noreferrer"} 
+### [Codepen](https://codepen.io/KeptCantaloupe/pen/bGQNXwK){:target="_blank"}{:rel="noopener noreferrer"} 
