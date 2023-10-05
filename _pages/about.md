@@ -4,20 +4,20 @@ title: "About"
 ---
 
 Certifications:
-•	Microsoft: Azure Solutions Architect Expert | MCSE - Data Management and Analytics | Azure Developer Associate | MCSA - SQL Server
-•	Salesforce Certified Application Architect
-•	Salesforce Certified System Architect
-•	Salesforce Certified Integration Architect
-•	Salesforce Certified Development Lifecycle and Deployment Architect
-•	Salesforce Certified Identity and Access Management Architect
-•	Salesforce Certified Data Architect
-•	Salesforce Certified Sharing and Visibility Architect
-•	Salesforce Certified OmniStudio Developer
-•	Salesforce Platform Developer I
-•	Salesforce Platform App Builder
-•	Salesforce Certified Administrator
-•	AWS: Certified Cloud Practitioner
-•	Tableau: Desktop Specialist
+* Microsoft: Azure Solutions Architect Expert | MCSE - Data Management and Analytics | Azure Developer Associate | MCSA - SQL Server
+* Salesforce Certified Application Architect
+* Salesforce Certified System Architect
+* Salesforce Certified Integration Architect
+* Salesforce Certified Development Lifecycle and Deployment Architect
+* Salesforce Certified Identity and Access Management Architect
+* Salesforce Certified Data Architect
+* Salesforce Certified Sharing and Visibility Architect
+* Salesforce Certified OmniStudio Developer
+* Salesforce Platform Developer I
+* Salesforce Platform App Builder
+* Salesforce Certified Administrator
+* AWS: Certified Cloud Practitioner
+* Tableau: Desktop Specialist
 
 About:
 
