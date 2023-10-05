@@ -9,7 +9,7 @@ tags:
   - Flexcard
   - Omniscript
 ---
-If you have a need to access the query parameters from a flexcard then you can use the following syntax in each.
+If you have a need to access the query parameters from a flexcard or omniscript then you can use the following syntax in each.
 
 ## Flexcards
 Within a flexcard you can access the parameter value by using Params for example: {Params.test} to get the query parameter named test.
